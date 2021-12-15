@@ -6,7 +6,8 @@ The cv2 module will allow us to obtain the frames from the camera, over which we
 
 
 To install the required python framework, simply copy-paste the following command in command prompt  <br>
-***(Open CMD in same file where requirements.txt is located)***
+***(Open CMD in same file where requirements.txt is located)*** <br>
+***Install Python version 3.9.1***
 ```
 pip install -r requirements.txt
 ```
