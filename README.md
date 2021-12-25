@@ -1,4 +1,4 @@
-# VLC Media PLayer Controller Using Hand Gestures
+# Handy: Media PLayer Controller 
 I have used mediapipe Python library to recognize hand from camera and other framework like numpy, openCv, pycaw etc.<br>
 The cv2 module will allow us to obtain the frames from the camera, over which we will perform the hand landmarks estimation by using the functionality exposed by the mediapipe module.<br>
 <br>
